@@ -1,0 +1,5 @@
+Smith John 12 20 18 19 17 16 15 18 19
+King Alex 17 18 18 14 19 20 16 14 18 20
+Jones Karren 19 15 14 18 15 19 18 19
+Clark Ryan 17 16 18 18 19 19 12 11
+Lee Jessica 20 14 18 17 19 16 18 17
